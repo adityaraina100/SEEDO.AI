@@ -27,4 +27,3 @@ SEEDO.AI (**SE**cure **E**xtraction and **D**ata **O**.rganization with **AI**) 
 * **Streamlined Workflows:** Enables automation of data acquisition tasks in various applications.
 
 
-This summary effectively conveys the core functionalities and technologies used in your SEEDO.AI project. You can adjust the level of detail based on the specific requirements of your project abstract. 
