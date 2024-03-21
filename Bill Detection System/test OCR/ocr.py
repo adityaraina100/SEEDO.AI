@@ -2,7 +2,7 @@ import requests
 import re
 
 # Define your API key
-api_key = 'K85581677688957'
+api_key = 'YOUR API HERE'
 
 # Function to perform OCR using OCR.space API
 def ocr_space_file(image_path, api_key, language='eng'):
