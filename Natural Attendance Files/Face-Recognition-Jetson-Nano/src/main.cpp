@@ -9,11 +9,11 @@
 #include "TBlur.h"
 //----------------------------------------------------------------------------------------
 //
-// Created by markson zhang
-//sx
-// Edited by Xinghao Chen 2020/7/27
+// Created by Arjun Charak and Aditya Raina
+// MIET 2024, CRIE
+// 
 //
-// Modified by Q-engineering 2020/12/28
+//
 //
 //----------------------------------------------------------------------------------------
 // Build defines
