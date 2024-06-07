@@ -2,8 +2,6 @@
 ![output image]( https://qengineering.eu/images/John_Cleese.png )
 
 ## A fast face recognition and face recording running on a Jetson Nano.
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/>
-
 This C++ application recognizes a person from a database of more than 2000 faces.  It is built for a Jetson Nano, but can easily be ported to other platforms.
 
 First, the faces and their landmarks are detected by **RetinaFace** or **MTCNN**.
@@ -12,7 +10,6 @@ In the end, **Face Anti Spoofing** tests whether the person in front of the came
 
 If the face is not found in the database, it will be **added automatically**. A **blur** filter ensures only sharp faces in the database. One photo per person is sufficient, although more does not hurt.
 
-Special made for a Jetson Nano see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) <br/>
 
 ------------
 
